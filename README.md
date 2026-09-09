@@ -1,25 +1,61 @@
-<h1 align="center">Hi 👋, I'm jaswanth pallavolu</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
-<h4 align="center">work efficiently both as an individual contributor as well as along with a team</h4>
+<h1 align="center">Hi 👋, I'm Jaswanth Pallavolu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanthpallavolu&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthpallavolu" /> </p>
+<h3 align="center">Software Engineer | React • TypeScript • Node.js</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=jaswanthpallavolu" alt="jaswanthpallavolu" /></a> </p>
-
-- 📫 How to reach me **jaswanthp456@gmail.com**
-
-- 📄 Know about my experiences [for the past one year i've been working on web development and did 3 months of internship as a react frontend developer]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jaswanthpallavolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaswanthpallavolu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaswanth-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswanth-p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaswanthp456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaswanthp456" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jaswanthpallavolu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaswanthpallavolu/profile" height="30" width="40" /></a>
+<p align="center">
+  Building scalable web applications, exploring full-stack engineering, and understanding how things work under the hood.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaswanth-pallavolu">LinkedIn</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanthpallavolu&show_icons=true&locale=en&layout=compact" alt="jaswanthpallavolu" /></p>
+---
+
+### 👨‍💻 About Me
+
+- 💼 Software Engineer with **3+ years of experience** building enterprise web applications
+- ⚛️ Strong focus on **React, TypeScript, frontend architecture, and performance**
+- 🔧 Expanding into **full-stack development with Node.js, Express, PostgreSQL, and Java**
+- 🏗️ Interested in **system design, scalable architectures, APIs, and developer tooling**
+- 🧠 Currently strengthening **DSA, backend engineering, and system design**
+- 🚀 I enjoy building products from the ground up and understanding how things work under the hood
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+`React` `TypeScript` `JavaScript` `Next.js` `Redux Toolkit` `TanStack Query` `HTML` `CSS` `Tailwind CSS`
+
+**Backend & Database**
+
+`Node.js` `Express.js` `REST APIs` `PostgreSQL` `MongoDB` `Prisma` `Java` `Python`
+
+**Tools & Engineering**
+
+`Git` `Docker` `Jest` `React Testing Library` `Storybook` `Figma`
+
+---
+
+### 🚀 Featured Project
+
+#### 🎨 Canvas Graphics Editor
+
+A Figma-inspired graphics editor built from scratch with a focus on **graphics-engine architecture, interaction design, and scalable frontend/backend integration**.
+
+- 🎨 Built a **framework-agnostic graphics engine** using the HTML5 Canvas API and TypeScript, modeling the canvas as a **retained-mode scene graph** with live-preview rendering for rectangles, ellipses, and lines.
+- 🖱️ Engineered advanced editing capabilities including **selection, drag-and-drop, resize/rotate, grouping, layer management, and undo/redo** using the **Command pattern, state machines, and event-driven architecture**.
+- ⚙️ Developed a backend with **Express.js, Prisma, and PostgreSQL**, exposing REST APIs for user and design-board management.
+- 🔄 Integrated the backend with a **Next.js + React frontend using TanStack Query** for server-state management, caching, and API synchronization.
+
+**Live:**
+https://design-tool-board.netlify.app
+
+**GitHub:**
+https://github.com/jaswanthpallavolu/design-tool-clone
+
+---
+
 
